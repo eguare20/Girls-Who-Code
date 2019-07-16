@@ -1,0 +1,13 @@
+body {
+  background-color: gainsboro;
+  color: blue;
+}
+.generic {
+  color: midnightblue;
+}
+
+.name {
+  color: midnightblue
+}
+
+#Bio {display:none}
